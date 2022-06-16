@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\Templates">
+      <UniqueIdentifier>{a7cdd7e1-ad36-493e-9bf4-b56b105f5125}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Templates\Task_1">
+      <UniqueIdentifier>{c43bb2fd-8134-48b7-a53c-16b36fda0417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Templates\Task_2">
+      <UniqueIdentifier>{1f15e705-8d8d-41f4-943a-2ad6cf0d2e27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\General">
+      <UniqueIdentifier>{51d143aa-124b-4f21-9c78-8c56016216a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task_1">
+      <UniqueIdentifier>{fa8a35b2-88b2-43e6-8fc1-2211b2e86166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task_2">
+      <UniqueIdentifier>{2f9494a3-1a5f-4762-a5d6-a4313d07a6e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task_3">
+      <UniqueIdentifier>{43e533b2-c897-4e77-83fb-56d6df6c1628}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Library.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Prototypes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="count_product.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="work_array.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="inputarray.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="array_sum.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="mode_of_output.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="Prod_max_min.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="count_negative_elements.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="max_for_product.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="TemplatesLibrary.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="count_same_elements.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="min_for_product.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="outputarray.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="sort_array.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="sort_by_choice.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+    <ClInclude Include="work_matrix.h">
+      <Filter>Файлы заголовков\Templates\Task_2</Filter>
+    </ClInclude>
+    <ClInclude Include="inputmatrix.h">
+      <Filter>Файлы заголовков\Templates\Task_2</Filter>
+    </ClInclude>
+    <ClInclude Include="nonzero_colums.h">
+      <Filter>Файлы заголовков\Templates\Task_2</Filter>
+    </ClInclude>
+    <ClInclude Include="sort_rows.h">
+      <Filter>Файлы заголовков\Templates\Task_2</Filter>
+    </ClInclude>
+    <ClInclude Include="output_matrix.h">
+      <Filter>Файлы заголовков\Templates\Task_2</Filter>
+    </ClInclude>
+    <ClInclude Include="sort_characteristic.h">
+      <Filter>Файлы заголовков\Templates\Task_2</Filter>
+    </ClInclude>
+    <ClInclude Include="check_product.h">
+      <Filter>Файлы заголовков\Templates\Task_1</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Исходные файлы\General</Filter>
+    </ClCompile>
+    <ClCompile Include="Enter_type.cpp">
+      <Filter>Исходные файлы\General</Filter>
+    </ClCompile>
+    <ClCompile Include="inputstring.cpp">
+      <Filter>Исходные файлы\Task_3</Filter>
+    </ClCompile>
+    <ClCompile Include="output_string.cpp">
+      <Filter>Исходные файлы\Task_3</Filter>
+    </ClCompile>
+    <ClCompile Include="work_string.cpp">
+      <Filter>Исходные файлы\Task_3</Filter>
+    </ClCompile>
+    <ClCompile Include="check_size.cpp">
+      <Filter>Исходные файлы\Task_1</Filter>
+    </ClCompile>
+    <ClCompile Include="check_rows.cpp">
+      <Filter>Исходные файлы\Task_2</Filter>
+    </ClCompile>
+    <ClCompile Include="check_columns.cpp">
+      <Filter>Исходные файлы\Task_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_menu.cpp">
+      <Filter>Исходные файлы\General</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

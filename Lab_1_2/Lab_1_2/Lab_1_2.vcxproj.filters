@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Part 1">
+      <UniqueIdentifier>{6c01cec6-b239-435a-99eb-d0db3ed4f0e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Part 2">
+      <UniqueIdentifier>{496eb422-024f-421e-9213-8f3fa554b7b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Part 3">
+      <UniqueIdentifier>{b7d535a4-384e-4b90-a27e-fae64232a98f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_menu.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="work_array.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="array_sum.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Pr_max_min.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_array.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="work_matrix.cpp">
+      <Filter>Исходные файлы\Part 2</Filter>
+    </ClCompile>
+    <ClCompile Include="work_string.cpp">
+      <Filter>Исходные файлы\Part 3</Filter>
+    </ClCompile>
+    <ClCompile Include="nonzero_colums.cpp">
+      <Filter>Исходные файлы\Part 2</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_characteritic.cpp">
+      <Filter>Исходные файлы\Part 2</Filter>
+    </ClCompile>
+    <ClCompile Include="inputarray.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="inputmatrix.cpp">
+      <Filter>Исходные файлы\Part 2</Filter>
+    </ClCompile>
+    <ClCompile Include="output_string.cpp">
+      <Filter>Исходные файлы\Part 3</Filter>
+    </ClCompile>
+    <ClCompile Include="inputstring.cpp">
+      <Filter>Исходные файлы\Part 3</Filter>
+    </ClCompile>
+    <ClCompile Include="count_negative_elements.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="mode_of_output.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="max_for_product.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="min_for_product.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="count_product.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="count_same_elements.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="outputarray.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_by_choice.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_rows.cpp">
+      <Filter>Исходные файлы\Part 2</Filter>
+    </ClCompile>
+    <ClCompile Include="output_matrix.cpp">
+      <Filter>Исходные файлы\Part 2</Filter>
+    </ClCompile>
+    <ClCompile Include="check_size.cpp">
+      <Filter>Исходные файлы\Part 1</Filter>
+    </ClCompile>
+    <ClCompile Include="check_rows.cpp">
+      <Filter>Исходные файлы\Part 2</Filter>
+    </ClCompile>
+    <ClCompile Include="check_columns.cpp">
+      <Filter>Исходные файлы\Part 2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Library.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Prototypes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
